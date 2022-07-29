@@ -34,3 +34,5 @@ Please fork this repo and complete the following tasks.
 3. Update the grid system using chakra ui; Feel free to design a layout that you think is great.
 
 4. Add Chinese language support. Fix all warnings you run into.
+
+5. [optional]Assuming we are buidling a blog system, where SEO is critical, add the SEO support for the project.
