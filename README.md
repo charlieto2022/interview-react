@@ -31,6 +31,6 @@ Please fork this repo and complete the following tasks.
 
 2. Update the user/[id].js to show the right status info in the page.
 
-3. update the grid system using chakra ui.
+3. Update the grid system using chakra ui; Feel free to design a layout that you think is great.
 
 4. Add Chinese language support. Fix all warnings you run into.
