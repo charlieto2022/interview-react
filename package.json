@@ -1,0 +1,30 @@
+{
+  "name": "store-builder",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/pro-theme": "^0.0.53",
+    "@chakra-ui/react": "^2.2.1",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "framer-motion": "^6.3.13",
+    "i18next": "^21.8.10",
+    "i18next-browser-languagedetector": "^6.1.4",
+    "next": "12.1.6",
+    "next-seo": "^5.4.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-i18next": "^11.17.2",
+    "recoil": "^0.7.4"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
