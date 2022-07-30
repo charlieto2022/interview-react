@@ -23,7 +23,7 @@ npm run start # start the server
 
 ## Interview Tasks
 
-This test project is using react, next.js and chakra-ui. Please take a quick look at them if you are not familiar with them.
+This test project is using react, next.js and chakra-ui. Please take a quick look at them if you are not familiar with them. Some part of the questions seems to be vague, which is intentional. You are expected to figure them out, however, feel free to ask any question you may have.
 
 Please fork this repo and complete the following tasks.
 
